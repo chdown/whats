@@ -1,0 +1,10 @@
+import 'dart:ui';
+
+class Coloors {
+  Coloors._();
+
+  static const Color greenDark = Color(0xFF00A884);
+  static const Color blueDark = Color(0xFF53BDEB);
+  static const Color greyDark = Color(0XFF8696A0);
+  static const Color backgroundDark = Color(0xFF111B21);
+}
